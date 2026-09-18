@@ -1,0 +1,15 @@
+# Local database (contains customer data, should never be pushed)
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
